@@ -1,8 +1,8 @@
-# Moritz-Rueff
+# Moritz Ruëff
 
 ## Welcome 
 
-Welcome to my profile! My name is Moritz Rueff and I'm a future web development developer. I'm from Munich, and currently studiying at neue Fische. :fish:
+Welcome to my profile! My name is Moritz Rueff and I'm a future web development developer. I'm from Munich, and currently studiying at Neue Fische. :fish:
 
 ## Technologies & Tools
 (in the making) :grinning:
@@ -27,4 +27,6 @@ Welcome to my profile! My name is Moritz Rueff and I'm a future web development 
 ## Hobbies & Interests
 - Biking :bike:
 - Travel :earth_americas:
-- 
+- Computer Stuff :desktop_computer: 	
+
+> “Website without visitors is like a ship lost in the horizon."
