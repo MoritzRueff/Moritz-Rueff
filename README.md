@@ -29,7 +29,9 @@ Welcome to my profile! My name is Moritz Rueff and I'm a future web development 
 - Travel :earth_americas:
 - Computer Stuff :desktop_computer: 	
 
+## Favorite quote:
 > “Website without visitors is like a ship lost in the horizon."
 
 ## Contact: 
 https://www.facebook.com/moritz.rueff
+![blue-mountains-australien-f-97196043-jpg--79051-](https://user-images.githubusercontent.com/93935623/140906399-9f446675-6207-4864-af60-af15a71c60bc.jpg)
