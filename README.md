@@ -35,5 +35,7 @@ Welcome to my profile! My name is Moritz Rueff and I'm a future web development 
 
 ## Contact: 
 https://www.facebook.com/moritz.rueff
+No LinkedIn profil (till now).
 
 <img src = "https://user-images.githubusercontent.com/93935623/140906399-9f446675-6207-4864-af60-af15a71c60bc.jpg" width= "250" height= "250">
+
