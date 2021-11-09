@@ -30,3 +30,6 @@ Welcome to my profile! My name is Moritz Rueff and I'm a future web development 
 - Computer Stuff :desktop_computer: 	
 
 > “Website without visitors is like a ship lost in the horizon."
+
+## Contact: 
+https://www.facebook.com/moritz.rueff
