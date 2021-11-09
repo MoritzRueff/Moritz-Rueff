@@ -27,7 +27,8 @@ Welcome to my profile! My name is Moritz Rueff and I'm a future web development 
 ## Hobbies & Interests
 - Biking :bike:
 - Travel :earth_americas:
-- Computer Stuff :desktop_computer: 	
+- Computer Stuff :desktop_computer: 
+- Nice Things	
 
 ## Favorite quote:
 > “Website without visitors is like a ship lost in the horizon."
