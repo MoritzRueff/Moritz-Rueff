@@ -1,0 +1,12 @@
+:root {
+    --primary: #165b33;
+    --secondary: #f8b229;
+    --third: #b8b8b7;
+    --warning: #bb2528;
+}
+
+h2 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
